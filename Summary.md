@@ -1,3 +1,5 @@
+[TOC]
+
 # Contents
 
 1. [Introduction](<1. Introduction/Intro.md>)
